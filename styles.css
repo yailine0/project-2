@@ -8,7 +8,9 @@
   --accent: #6b4cff;
   --muted: #556;
 }
-
+body {
+  background-image: url("lights.jpg");
+}
 
 html {
   font-size: 100%; 
@@ -126,3 +128,4 @@ h3 {
     width: 92vw;
   }
 }
+
